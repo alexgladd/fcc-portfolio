@@ -1,0 +1,45 @@
+/* Portfolio CSS */
+
+body {
+  font-family: 'Varela', sans-serif;
+  margin-top: 70px;
+  font-size: 24px;
+}
+
+section {
+  margin-top: 40px;
+}
+
+#portfolio {
+  background-color: #b8d8d8;
+}
+
+#portfolio-name {
+  font-family: 'Lobster', cursive, serif;
+  font-size: 36px;
+}
+
+#img-headshot {
+  border-style: solid;
+  border-color: #cd5334;
+  border-width: 10px;
+  border-radius: 50%;
+}
+
+#footer {
+  margin-top: 40px;
+  background-color: #7a9e9f;
+  font-size: 14px;
+  border-top: 4px solid #4f6367;
+  padding: 15px;
+}
+
+.portfolio-thumb {
+  border-style: solid;
+  border-color: #7a9e9f;
+  border-width: 4px;
+}
+
+.portfolio-txt {
+  font-size: 18px;
+}
